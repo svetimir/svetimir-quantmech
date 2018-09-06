@@ -1,2 +1,2 @@
 # svetimir-quantmech
-multipurpose miscellaneous code for quantum mechanics problem solving
+miscellaneous multipurpose code for quantum mechanics problem solving
