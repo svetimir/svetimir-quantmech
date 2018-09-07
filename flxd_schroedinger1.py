@@ -6,7 +6,7 @@
 # AUTHOR: fluxoid, ifi@yandex.ru
 # STARTED: 06.09.2018
 # VERSION: 0.1
-# LATEST FILE REVISION: 06.09.2018
+# LATEST FILE REVISION: 07.09.2018
 
 from scipy import integrate
 import numpy as np
