@@ -1,21 +1,9 @@
 # Проект: Решение одномерного уравнения Шрёдингера
 # Автор: Георгий Яшин, ifi@yandex.ru, 2022
-# Лицензия: GNU General Public License v2
-# Дата последнего изменения файла: 27.11.2022
-# Версия 1.1.20
+# Лицензия: GNU General Public License v3
+# Дата последнего изменения файла: 05.03.2023
+# Версия 1.1.21
 # Расшифровка индекса версий: Номер выпуска программы. Количество рабочих функций. Номер редактуры
-
-# Copyright (C) 2022 Георгий Яшин
-
-#This program is free software; you can redistribute it and/or
-#modify it under the terms of the GNU General Public License
-#as published by the Free Software Foundation; either version 2
-#of the License, or (at your option) any later version.
-
-#This program is distributed in the hope that it will be useful,
-#but WITHOUT ANY WARRANTY; without even the implied warranty of
-#MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
-#GNU General Public License for more details.
 
 from scipy import integrate as Integrator
 import numpy as FunkciiChisel
